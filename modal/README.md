@@ -10,6 +10,8 @@ DESCRIPTION: Modale avec fond sombre permettant d'afficher un message particulie
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - Version : 0.0.8
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- Mots-clefs: "react", "components", "modal"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - Propriétés (Props) :
     - isOpen : Un booléen qui détermine si la boîte modale est visible ou non. Lorsque cette valeur est à true, la boîte modale est affichée. Lorsqu'elle est à false, la boîte modale est masquée.
     - content : Le contenu de la boîte modale, généralement un titre ou un message.
@@ -51,6 +53,8 @@ MODAL
 DESCRIPTION : Modal is a component that displays a darkened overlay with a specific message and can be closed by clicking the close button or outside the modal. Ideal for elegantly displaying important information or error messages in a React application. You can easily integrate it into your projects by passing the necessary props to customize its behavior and content.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Author: Stephen Thomas
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Keywords: "react", "components", "modal"
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Version: 0.0.8
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
