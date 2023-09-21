@@ -65,7 +65,6 @@ Props:
 Appearance:
 - The modal is centered both vertically and horizontally on the screen and slightly transparent to show the background content.
 - The modal content is displayed on a white background with rounded corners and a subtle shadow, making it visually appealing.
-- A title is displayed in an <h2> element above the content.
 - A "Close" button is provided at the bottom of the modal to allow the user to close it.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Usage:
