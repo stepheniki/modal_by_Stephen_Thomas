@@ -20,7 +20,6 @@ DESCRIPTION: Modale avec fond sombre permettant d'afficher un message particulie
 - Apparence :
     - La boîte modale est centrée verticalement et horizontalement à l'écran, légèrement transparente pour montrer le contenu en arrière-plan.
     - Le contenu de la boîte modale est affiché sur un fond blanc avec des coins arrondis et une ombre légère, ce qui la rend visuellement attrayante.
-    - Un titre est affiché dans un élément <h2> au-dessus du contenu.
     - Un bouton "Close" est fourni en bas de la boîte modale pour permettre à l'utilisateur de la fermer.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - Utilisation :
